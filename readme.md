@@ -1,4 +1,4 @@
-# Project Title
+# GraphQL with NodeJs
 
 Simple web app to search for movies and directors
 
