@@ -19,7 +19,7 @@ npm
 npm install
 ```
 
-And repeat
+### Running
 
 ```
 node server.js
