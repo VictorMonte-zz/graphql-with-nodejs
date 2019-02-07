@@ -7,7 +7,7 @@ Simple web app to search for movies and directors
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install
 
 ```
 npm
